@@ -16,7 +16,8 @@ but just add your touch to it and in case you are not into professional Reskin i
 
  
                                             SCREENSHOTS
- 
+ <div align="center">
 <img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s2.png" width="40%"><img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s2.png" width="40%"><img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s3.png" width="40%"><img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s4.png" width="40%"><img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s5.png" width="40%"><img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s7.png" width="40%"><img src="https://github.com/abdeldev007/WallpapersPixabayApi/blob/master/screenshots/s8.png" width="40%">
+  </div>
 
 
