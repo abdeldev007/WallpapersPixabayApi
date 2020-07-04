@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">APP NAME</string>
+
+    <!--                    Ad Mob IDs                -->
+    <string name="publisher_id">pub-3940256099942544</string>
+    <string name="app_id_admob">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_admob_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_ads">ca-app-pub-3940256099942544/2247696110</string>
+
+    <string name="privacy_link">http://www.dev3pro.com/index/privacy_policy.html</string>
+    <string name="app_store">https://play.google.com/store/apps/developer?id=Recca</string>
+
+    <!--                 facbook ads             -->
+    <string name="fb_banenr">IMG_16_9_APP_INSTALL#395665877671164_409848676252884</string>
+    <string name="fb_interstitial">IMG_16_9_APP_INSTALL#395665877671164_395666497671102</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="rate_menu">RATE</string>
+    <string name="more_apps">MORE APPs</string>
+    <string name="menu_myimages">MY IMAGES</string>
+    <string name="menu_exit">EXIT</string>
+
+
+    <!--         pixabay_api             -->
+
+    <string name="pixabay_api">16096537-e9585a6b9e05a790fd079926d</string>
+    <string name="username">user</string>
+    <string name="back">back</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="set_as_background">SET AS BACKGROUND</string>
+
+
+    <string name="start_text">START</string>
+    <string name="feedback">Feedback</string>
+    <string name="developer_email">abdallah.idlahcen2@gmail.com</string>
+
+    <string name="share_text">Share</string>
+    <string name="rate_text">Rate</string>
+    <string name="privacy_text"><u>Privacy Policy</u></string>
+    <string name="dialog_close_msg">Please Rate Our App First</string>
+    <string name="exit">EXIT</string>
+    <string name="rate">RATE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+</resources>
