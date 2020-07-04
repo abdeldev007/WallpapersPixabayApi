@@ -6,6 +6,7 @@
 this app will take you through the Pixabay Api and how to work with Apis using Retrofit ,  
 
 it has a simple fine design(i believe ) and also i integrated Admobe and Facebook audience to it .
+you will need to generate your own pixabay API [here](https://pixabay.com) 
 
 PS : the app i made by me from scratch so feel free to use it ,
 
