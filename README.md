@@ -3,7 +3,7 @@
  
  
                                             SCREENSHOTS
-![tes](https://github.com/abdeldev007/bmi_calculator/blob/master/screenshots/s1.png | width=48)
+![test](https://github.com/abdeldev007/bmi_calculator/blob/master/screenshots/s1.png | width=48)
 
 this app will take you through the Pixabay Api and how to work with Apis using Retrofit ,  
 it has a simple fine design(i believe ) and also i integrated Admobe and Facebook audience to it .
