@@ -10,7 +10,6 @@ you will need to generate your own pixabay API [here](https://pixabay.com)
 
 PS : the app is made by me from scratch so feel free to use it ,
 
-but just add your touch to it and in case you are not into professional Reskin i can do that for you just for several dollars 
 
  
  <div align="center">
